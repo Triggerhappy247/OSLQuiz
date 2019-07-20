@@ -24,10 +24,10 @@ class QnA:
         return question, answers, qnumber
 
 
-test = QnA()
-print(test.qmax)
-question = test.getquestion()
-print(question[2])
-print(question[0])
-print(question[1])
+#test = QnA()
+#print(test.qmax)
+#question = test.getquestion()
+#print(question[2])
+#print(question[0])
+#print(question[1])
 
