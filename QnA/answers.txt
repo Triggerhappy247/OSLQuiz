@@ -40,7 +40,7 @@ Learning to learn for life and work,Skills Development to Improve Youth Employme
 Botanical Survey of India,Tata Institute of Fundamental Research,National Centre for Cell Science,Zoological Survey of India
 Novak Djokovic,Rafael Nadal,Roger Federer,Andy Murray
 Kane Williamson,Eoin Morgan,Ben Stokes,Mark Wood
-Punjab,Haryana,Himachal Pradesh,Uttarkhand
+Punjab,Haryana,Himachal Pradesh,Uttarakhand
 Vinesh Phogat,Kavita Devi,Babita Kumari,Sakshi Malik
 Meghalaya,Tamil Nadu,Rajasthan,Himachal Pradesh
 Nagarkirtan,Walking With the Wind,Village Rockstars,Na Bole WO Haram!
@@ -48,3 +48,53 @@ West Bengal,Andhra Pradesh,Jharkhand,Odisha
 KAlraj Mishra,Jagdish Mukhi,Lalji Tandon,Acharya Devvrat
 Bangladesh,Myanmar,Pakistan,Iran
 Russia & Germany,India & Russia,France & United States,China & South Korea
+Rewa,Jabalpur,Chhindwara,Indore
+Anshula Kant,Sunil Mehta,Karnam Sekar,R A Sankara Narayanan
+Table Tennis,Tennis,Golf,Badminton
+Malayalam,Tamil,Telugu,Odia
+Uttarakhand,Meghalaya,Himachal Pradesh,Jammu and Kashmir
+AIIMS,Tata Memorial,Sanjeevan Hospital,Apollo Hospitals
+Ram Gabale,Sudhir Phadke,Satish Jakatdar,PL Deshpande
+United States,South Africa,India,France
+RAFTAAR,Pradhan Mantri Krishi Sinchai Yojana,Soil Health Card,National Mission for Sustainable Agriculture
+Tripura,Nagaland,Arunachal Pradesh,Mizoram
+Ajay Singh,Gurdeep Singh,Rustam Sarang,Deepak Lather
+Vikas Swarup,Sumanta Chaudhury,Anup Wadhawan,Anant Narayan Nanda
+Connaught Place,Nariman Point,Bandra Kurla Complex,India Gate
+Indian Railway,Indian Army,ISRO,BARC
+UNDP,WHO,FAO,ILO
+RBI,NHB,SEBI,NABARD
+David Sassoli,Jan Zahradil,Ska Keller,Sira Rego
+Odisha,Jharkhand,Punjab,Madhya Pradesh
+London,Paris,New York,Berlin
+Mumbai,Pune,Delhi,Jaipur
+IIT Kanpur,IIT Delhi,IIT Bombay,IIT Indore
+July 11,July 10,July 12,July 13
+Kyriakos Mitsotakis,Dimitris Koutsoumpas,Alexis Tsipras,Fofi Gennimata
+Gully Boy,Kabir Singh,Bharat,Super 30
+Rajiv Kumar,Ajay Narayan Jha,Subhash Chandra Garg,Nirmala Sitharaman
+Section 3(1),Section 3(2),Section 3(3),Section (4)
+France,Austria,Germany,Poland
+Intas,Lupin,Cipla,Sun Pharma
+Italy,Spain,Norway,Sweden
+TCS,Infosys,Reliance,Wipro
+Dutee Chand,Ashwini Akhunji,Sathi Geetha,Hima Das
+Sri Lanka,Nepal,Myanmar,Bangladesh
+Bongaigaon,Cachar,Karbi Anglong,Kokrajhar
+Sunil Chhetri,Jeje Lalpekhlua,Lallianzuala Chhangte,Abdul Samad
+Odisha,Rajasthan,Jharkhand,Gujarat
+Arun Kumar,Pradip Kumar,Aditi Chauhan,Pronoy Halder
+Pravin Kumar Purwar, C K Vineeth,Narayan Das,Anirudh Singh
+Telangana,Andhra Pradesh,Karnataka,Kerala
+Northeast Frontier Railway,Western Railway,Northern Railway,North Central Railway
+Kochi,Pune,Kolkata,New Delhi
+Madhya Pradesh,Chhattisgarh,Uttar Pradesh,Rajasthan
+Rahul Dravid,Saurav Ganguly,VVS Laxman,Anil Kumble
+Australia,West Indies,New Zealand,England
+Uttarakhand,Himachal Pradesh,Jammu & Kashmir,Sikkim
+RBI,IRDA,NABARD,SEBI
+Beryllium-7,Xenon-7,Krypton-7,Argon-7
+Section 15HAA,Section 16A,Section 18AA,Section 19HA
+Kottoor,Thrissur,Alappuzha,Kollam
+Agar Malwa,Neemuch,Mandsaur,Ujjain
+Manav,Gupha Manav,Primitive man,Cave Namav
