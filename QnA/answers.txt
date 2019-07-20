@@ -1,0 +1,50 @@
+Sachin Tendulkar,Saurav Ganguly,VVS Laxman,Javagal Srinath
+Pondicherry,Daman & Diu,A&N Islands,Lakshadweep
+Ministry of HRD,Ministry of Railways,Ministry of Defence,Ministry of Finance
+Deeksharambh,Praveshika,Deeksha,Dakshina
+July 18,July 19,July 20,July 21
+Nepal,Bangladesh,Myanmar,Sri Lanka
+Telangana,Andhra Pradesh,Kerala,Tamil Nadu
+Zimbabawe,Belgium,Spain,Brunei
+Arjun Bhati,Shubhankar,Rashid Khan,Mukesh Kumar
+Delhi,Pondicherry,Himachal Pradesh,Haryana
+Maharashtra,Odisha,Kerala,Tamil Nadu
+Palau,Norway,Sweden,Latvia
+Hima Das,Dutee Chand,VK Vismaya,Swapna Barman
+Find the Incredible You,Swachh Bharat Abhiyan,India Shining,God's Own Country
+Rachna Bisht Rawat,Mrunal Thakur,Prakash Kovelamudi,Lakhmi Manchu
+SIDBI,IRDA,SEBI,RBI
+Smriti Mandhana,Veda Krishnamurthy,Harmanpreet Kaur,Jhulan Goswami
+United States,France,Italy,Canada
+July 17,July 19,July 18,July 16
+DR Congo,Mozambique,Zambia,Angola
+Zakir Hussain,Tarun Bhattacharya,Rajiv Naik,Malini Awasthi
+Germany,Austria,Poland,France
+Bengali,Odia,Tamil,Telugu
+Tezpur University,Delhi University,IIT Bombay,IISC Bangalore
+Delhi,Haryana,Rajasthan,Madhya Pradesh
+Shooting,Judo,Weightlifting,Wrestling
+July 14,July 17,July 16,July 15
+Indore,Bhopal,Jabalpur,Gwalior
+ICRIER,TRAI,BSNL,MTNL
+Wainganga,Painganga,Wardha,Koyna
+Shah Rukh Khan,Priyanka Chopra,Madhuri Dixit,Aishwarya Rai Bachchan
+P Raghu Ram Panda,Deep Goel,Ramakanta,Pradeep Chowbey
+L&T Finance Holdings,HDB Financial Services,Muthoot,Tata Capital
+Simona Halep,Angelique Kerber,Naomi Osaka,Serena Williams
+Kerala,Tamil Nadu,Andhra Pradesh,Odisha
+Arjan Kumar Sikr,Adarsh Kumar Goel,Sanjay Kishan Kaul,Surinder Singh Nijjar
+Karnataka,Tamil Nadu,Puducherry,Kerala
+Indian Institute of Spices Research,Indian Institute of Seed Research,Central Plantation Crops Research Institute,Indian Institute of Water Management
+Learning to learn for life and work,Skills Development to Improve Youth Employment,Skills for All,World Skills for peace and prosperity
+Botanical Survey of India,Tata Institute of Fundamental Research,National Centre for Cell Science,Zoological Survey of India
+Novak Djokovic,Rafael Nadal,Roger Federer,Andy Murray
+Kane Williamson,Eoin Morgan,Ben Stokes,Mark Wood
+Punjab,Haryana,Himachal Pradesh,Uttarkhand
+Vinesh Phogat,Kavita Devi,Babita Kumari,Sakshi Malik
+Meghalaya,Tamil Nadu,Rajasthan,Himachal Pradesh
+Nagarkirtan,Walking With the Wind,Village Rockstars,Na Bole WO Haram!
+West Bengal,Andhra Pradesh,Jharkhand,Odisha
+KAlraj Mishra,Jagdish Mukhi,Lalji Tandon,Acharya Devvrat
+Bangladesh,Myanmar,Pakistan,Iran
+Russia & Germany,India & Russia,France & United States,China & South Korea
