@@ -21,7 +21,7 @@ class options:
         self.optionsFrame = tkinter.LabelFrame(mainwindow, text='Choose a option')
         self.answerFrame = tkinter.LabelFrame(mainwindow, text='Correct Answer was:')
         self.answerLabel = tkinter.Label(self.answerFrame, text=answers[0],
-                           font=("Arial", 14), wraplength=550)
+                                         font=("Arial", 14), wraplength=550)
         self.nextButton = tkinter.Button(self.answerFrame, text='Next Question')
         self.nextButton.bind('<Button-1>', self.nextquestion)
         self.answerLabel.pack()
@@ -33,8 +33,8 @@ class options:
 
             else:
                 self.buttons[i].bind('<Button-1>', self.wrongoption)
-        order = random.sample(range(0,4,1),4)
-        for i in range(0,4,1):
+        order = random.sample(range(0, 4, 1), 4)
+        for i in range(0, 4, 1):
             self.buttons[order.index(i)].grid(row=i)
         self.optionsFrame.pack()
 
@@ -44,7 +44,7 @@ class options:
         global total
         correct += 1
         total += 1
-        questionFrame.configure(text='Correct Answers: '+ str(correct) + '/'+ str(total))
+        questionFrame.configure(text='Correct Answers: ' + str(correct) + '/' + str(total))
         self.answerFrame.configure(text='You\'re Absolutely Right!')
         self.optionsFrame.pack_forget()
         self.answerFrame.pack()
@@ -75,8 +75,6 @@ class options:
         return 1
 
 
-
-
 mainWindow = tkinter.Tk()
 mainWindow.geometry('650x250+250+250')
 mainWindow.resizable(False, False)
@@ -84,7 +82,7 @@ mainWindow.title('Q&J Quiz')
 questionBank = QnA()
 total = 0
 correct = 0
-questionFrame = tkinter.LabelFrame(mainWindow, text='Correct Answers: '+ str(correct) + '/'+ str(total))
+questionFrame = tkinter.LabelFrame(mainWindow, text='Correct Answers: ' + str(correct) + '/' + str(total))
 introLabel = tkinter.Label(questionFrame, text='Welcome to this Quiz, Press Start!',
                            font=("Arial", 14), wraplength=625)
 startButton = tkinter.Button(questionFrame, text='START')
