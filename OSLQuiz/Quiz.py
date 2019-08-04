@@ -39,6 +39,12 @@ class options:
     #     self.optionsFrame.pack()
 
     def correctoption(self, event):
+        global questionFrame
+        global correct
+        global total
+        correct += 1
+        total += 1
+        questionFrame.configure(text='Correct Answers: '+ str(correct) + '/'+ str(total))
         getquestion = questionBank.getquestion()
         introLabel.configure(text=getquestion[0])
         self.optionsFrame.pack_forget()
@@ -52,6 +58,10 @@ class options:
         return 1
 
     def wrongoption(self, event):
+        global questionFrame
+        global total
+        total += 1
+        questionFrame.configure(text='Correct Answers: ' + str(correct) + '/' + str(total))
         getquestion = questionBank.getquestion()
         introLabel.configure(text=getquestion[0])
         self.optionsFrame.pack_forget()
@@ -70,7 +80,9 @@ mainWindow.geometry('600x250+250+250')
 mainWindow.resizable(False, False)
 mainWindow.title('Q&J Quiz')
 questionBank = QnA()
-questionFrame = tkinter.LabelFrame(mainWindow, text='Correct Answers: 0/0')
+total = 0;
+correct = 0
+questionFrame = tkinter.LabelFrame(mainWindow, text='Correct Answers: '+ str(correct) + '/'+ str(total))
 introLabel = tkinter.Label(questionFrame, text='Welcome to this Quiz, Press Start!',
                            font=("Arial", 14), wraplength=550)
 startButton = tkinter.Button(questionFrame, text='START')
