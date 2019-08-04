@@ -78,7 +78,7 @@ class options:
 
 
 mainWindow = tkinter.Tk()
-mainWindow.geometry('600x300+250+250')
+mainWindow.geometry('650x250+250+250')
 mainWindow.resizable(False, False)
 mainWindow.title('Q&J Quiz')
 questionBank = QnA()
@@ -86,7 +86,7 @@ total = 0
 correct = 0
 questionFrame = tkinter.LabelFrame(mainWindow, text='Correct Answers: '+ str(correct) + '/'+ str(total))
 introLabel = tkinter.Label(questionFrame, text='Welcome to this Quiz, Press Start!',
-                           font=("Arial", 14), wraplength=550)
+                           font=("Arial", 14), wraplength=625)
 startButton = tkinter.Button(questionFrame, text='START')
 questionFrame.pack()
 introLabel.pack()
