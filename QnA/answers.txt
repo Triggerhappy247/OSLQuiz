@@ -98,3 +98,13 @@ Section 15HAA,Section 16A,Section 18AA,Section 19HA
 Kottoor,Thrissur,Alappuzha,Kollam
 Agar Malwa,Neemuch,Mandsaur,Ujjain
 Manav,Gupha Manav,Primitive man,Cave Namav
+Ram Nath Kovind,Rajnath Singh,Narendra Modi,Subrahmanyam Jaishankar
+United States,France,Germany,UK
+Gujarat,Madhya Pradesh,Rajasthan,Chhattisgarh
+SBI,BoB,ICICI,PNB
+Telugu,Tamil,Malayalam,Kannada
+Bhasha Mukherjee,Swati Sharma,Roshni Rai,Sweta Singh
+18,16,22,20
+Article 142,Article 144,Article 141,Article 143
+N Gopalaswami committee,Ambika Soni committee,NS Vishwanathan committee,Viral Acharya committee
+IIT Kharagpur,IIT Kanpur,IIT Madras,IIT Delhi
